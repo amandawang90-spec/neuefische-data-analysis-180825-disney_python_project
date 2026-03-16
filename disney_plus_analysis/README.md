@@ -83,7 +83,7 @@ disney-plus_analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/amandawang90-spec/neuefische-data-analysis-180825-disney_python_project/tree/main
+   git clone https://github.com/amandawang90-spec/neuefische-data-analysis-180825-disney_python_project/tree/main/disney_plus_analysis
    cd disney-analysis
    ```
 
